@@ -1,5 +1,17 @@
 # langchain
 
+## 1.0.7
+
+### Patch Changes
+
+- [#9467](https://github.com/langchain-ai/langchainjs/pull/9467) [`2750e08`](https://github.com/langchain-ai/langchainjs/commit/2750e08547614de366019584940fdb1ba93e581c) Thanks [@hntrl](https://github.com/hntrl)! - allow overriding profiles in `initChatModel`
+
+- [#9467](https://github.com/langchain-ai/langchainjs/pull/9467) [`2750e08`](https://github.com/langchain-ai/langchainjs/commit/2750e08547614de366019584940fdb1ba93e581c) Thanks [@hntrl](https://github.com/hntrl)! - cache model instance imports for `initChatModel`
+
+- [#9416](https://github.com/langchain-ai/langchainjs/pull/9416) [`0fe9beb`](https://github.com/langchain-ai/langchainjs/commit/0fe9bebee6710f719e47f913eec1ec4f638e4de4) Thanks [@hntrl](https://github.com/hntrl)! - fix 'moduleResultion: "node"' compatibility
+
+- [#9467](https://github.com/langchain-ai/langchainjs/pull/9467) [`2750e08`](https://github.com/langchain-ai/langchainjs/commit/2750e08547614de366019584940fdb1ba93e581c) Thanks [@hntrl](https://github.com/hntrl)! - pass model profiles from chat models in `initChatModel`
+
 ## 1.0.6
 
 ### Patch Changes
